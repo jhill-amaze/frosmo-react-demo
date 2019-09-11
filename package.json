@@ -1,0 +1,32 @@
+{
+  "name": "frosmo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "develop": "sudo webpack-dev-server",
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "contentful": "^7.6.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "frosmo-react": "git+https://github.com/Frosmo/frosmo-react.git#v0.1.0",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "styled-components": "^4.2.1",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.1"
+  },
+  "dependencies": {}
+}
