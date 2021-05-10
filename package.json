@@ -19,7 +19,7 @@
     "contentful": "^7.6.0",
     "copy-webpack-plugin": "^5.0.3",
     "frosmo-react": "git+https://github.com/Frosmo/frosmo-react.git#v0.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
